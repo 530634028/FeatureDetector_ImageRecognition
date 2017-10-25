@@ -1,5 +1,4 @@
 # git ignore file
-# C++ objects and libs
 
 *.slo
 *.lo
